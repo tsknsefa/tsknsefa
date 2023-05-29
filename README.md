@@ -28,7 +28,4 @@
 ###
 
 <br clear="both">
-
-<img src="https://github.com/tsknsefa/tsknsefa/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
-
 ###
